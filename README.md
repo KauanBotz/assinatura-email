@@ -1,6 +1,6 @@
 # Projeto de Automação de Assinaturas de E-mail
 
-Este projeto tem como objetivo automatizar a criação de assinaturas de e-mail personalizadas para os funcionários de uma empresa. Utilizando **Python**, o código modifica um arquivo **PPTX** (modelo de assinatura) com base nas informações de cada usuário e gera a assinatura personalizada em formato **JPG**.
+Este projeto tem como objetivo automatizar a criação de assinaturas de e-mail personalizadas para os funcionários da empresa em que trabalho (Construtora Sant'Anna). Utilizando **Python**, o código modifica um arquivo **PPTX** (modelo de assinatura) com base nas informações de cada usuário e gera a assinatura personalizada em formato **JPG**.
 
 ## Funcionalidades
 
