@@ -1,6 +1,6 @@
-# Gerador de Assinaturas ✍️
+# Projeto de Automação de Assinaturas de E-mail (Construtora Sant'Anna) ✍️
 
-Este é um programa em Python para gerar assinaturas personalizadas a partir de um modelo de PowerPoint (.pptx). O programa substitui placeholders no modelo (como {{Nome}}, {{Funcao}}, etc.) pelos dados fornecidos pelo usuário e salva a assinatura como uma imagem (.jpg).
+Este projeto tem como objetivo automatizar a criação de assinaturas de e-mail personalizadas para os funcionários da empresa em que trabalho (Construtora Sant'Anna). Utilizando **Python**, o código modifica um arquivo **PPTX** (modelo de assinatura) com base nas informações de cada usuário e gera a assinatura personalizada em formato **JPG**.
 
 ## Funcionalidades ⚙️
 
