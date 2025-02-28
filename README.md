@@ -35,4 +35,4 @@ Este projeto tem como objetivo automatizar a criação de assinaturas de e-mail 
 ## Melhorias Futuras 🔧
 
 - Linkar a um Banco SQL
-- Adicionar assinatura automaticamente no email de todos os usuários do @gruposantanna.com.br
+- Adicionar assinatura automaticamente no e-mail (Microsft Exchange) de todos os usuários da @gruposantanna.com.br
